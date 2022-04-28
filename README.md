@@ -24,23 +24,23 @@ A ideia é usar esse repositório como referência... afinal, tá no nome né.. 
 
 ### Básico:
 
-- [O que é Python]()
-- [Syntax Básica]() - ``Identação``, ``Comentários``, ``Docstrings``, ``print()``, ``input()``. 
-- [Variáveis]()
+- [O que é Python](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/01.%20B%C3%A1sico/01.%20O%20que%20%C3%A9%20Python.md)
+- [Syntax Básica](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/01.%20B%C3%A1sico/02.%20Syntax%20B%C3%A1sica.md) - ``Identação``, ``Comentários``, ``Docstrings``, ``print()``, ``input()``. 
+- [Variáveis](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/01.%20B%C3%A1sico/vari%C3%A1veis.py)
 
 ### Operadores:
 
-- [Operadores Aritméticos]()
+- [Operadores Aritméticos](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/02.%20Operadores/01.%20Operadores%20Aritm%C3%A9ticos.py)
 
-- [Operadores Bitwise (Bit-a-Bit)]()
+- [Operadores Bitwise (Bit-a-Bit)](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/02.%20Operadores/02.%20Operadores%20Bitwise.py)
 
-- [Operadores de Atribuição]()
+- [Operadores de Atribuição](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/02.%20Operadores/03.%20Operadores%20de%20Atribui%C3%A7%C3%A3o.py)
 
-- [Operadores de Comparação]()
+- [Operadores de Comparação](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/02.%20Operadores/04.%20Operadores%20de%20Compara%C3%A7%C3%A3o.py)
 
-- [Operadores Lógicos]()
+- [Operadores Lógicos](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/02.%20Operadores/05.%20Operadores%20L%C3%B3gicos.py)
 
-- [Operadores de Identidade e Associação]()
+- [Operadores de Identidade e Associação](https://github.com/marcoshsq/Python_Reference_sheet/blob/main/02.%20Operadores/06.%20Operadores%20de%20Identidade%20e%20Associa%C3%A7%C3%A3o.py)
 
 ### Tipos de dados - Data Types (Estruturas Simples e Compostas):
 
