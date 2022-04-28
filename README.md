@@ -10,11 +10,10 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 - [Operadores](https://github.com/marcoshsq/Python_Reference_sheet#operadores)
 - [Data Types](https://github.com/marcoshsq/Python_Reference_sheet#tipos-de-dados---data-types-estruturas-simples-e-compostas)
 - [Control Flow](https://github.com/marcoshsq/Python_Reference_sheet#control-flow---estruturas-de-controle-de-fluxo)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Funções](https://github.com/marcoshsq/Python_Reference_sheet#fun%C3%A7%C3%B5es)
+- [Classes](https://github.com/marcoshsq/Python_Reference_sheet#classes-e-objetos)
+- [Files](https://github.com/marcoshsq/Python_Reference_sheet#arquivos---files)
+- [Módulos](https://github.com/marcoshsq/Python_Reference_sheet#m%C3%B3dulos-pacotes-e-bibliotecas)
 
 ---
 
