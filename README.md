@@ -47,6 +47,22 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 - [Dicionários]()
 
+### Control Flow - Estruturas de controle de fluxo:
+
+#### Estruturas Condicionais:
+
+- [If, Elif e Else]() 
+
+#### Estruturas de Repetição:
+
+- [For]() 
+
+- [While]()
+
+#### Tratamento de Erros e Exceções:
+
+- [Try, Except]() - Manipulando exceções.
+- [Raise]() - Criando exceções.
 
 
 
