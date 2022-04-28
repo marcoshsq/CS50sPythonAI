@@ -19,6 +19,23 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 - [Syntax Básica]()
 - [Variáveis]()
 
+### Operadores:
+
+- [Operadores Aritméticos]()
+
+- [Operadores Bitwise (Bit-a-Bit)]()
+
+- [Operadores de Atribuição]()
+
+- [Operadores de Comparação]()
+
+- [Operadores Lógicos]()
+
+- [Operadores de Identidade e Associação]()
+
+### Tipos de dados - Data Types (Estruturas Simples e Compostas):
+
+- [Números]() - ``Int``, ``Float``, ``Bool``, ``Complex``.
 
 
 
