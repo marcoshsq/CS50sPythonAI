@@ -14,6 +14,7 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 - [Classes](https://github.com/marcoshsq/Python_Reference_sheet#classes-e-objetos)
 - [Files](https://github.com/marcoshsq/Python_Reference_sheet#arquivos---files)
 - [Módulos](https://github.com/marcoshsq/Python_Reference_sheet#m%C3%B3dulos-pacotes-e-bibliotecas)
+- [Links Úteis]()
 
 ---
 
@@ -43,7 +44,7 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 - [Números]() - ``Int``, ``Float``, ``Bool``, ``Complex`` e ``Type Casting``.
 
-- [Strings]() - Sem RegEx.
+- [Strings]()
 
 - [Listas]()
 
@@ -77,6 +78,14 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 ### Arquivos - Files:
 
 ### Módulos, Pacotes e Bibliotecas:
+
+### Links Úteis:
+
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [PEP 8 — the Style Guide for Python Code](https://pep8.org/#pep-8-%E2%80%94-the-style-guide-for-python-code)
+- [Python Speedsheet](https://speedsheet.io/s/python)
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- [Visualizar o código](https://pythontutor.com/visualize.html#mode=edit)
 
 ---
 
