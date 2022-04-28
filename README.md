@@ -4,7 +4,7 @@ Essa é uma folha de referência pessoal, mas vou deixá-la pública, pois pode 
 
 A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿‿◕｡)づ
 
-## Guia:
+## Índice:
 
 - [Básico](https://github.com/marcoshsq/Python_Reference_sheet#b%C3%A1sico)
 - [Operadores](https://github.com/marcoshsq/Python_Reference_sheet#operadores)
@@ -83,6 +83,6 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 <div align="right">
   
-[Ir para a guia](https://github.com/marcoshsq/Python_Reference_sheet#guia)
+[Ir para o Índice](https://github.com/marcoshsq/Python_Reference_sheet#guia)
   
 </div>
