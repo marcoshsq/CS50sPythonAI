@@ -6,7 +6,14 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 ## Guia:
 
-- [Básico]()
+- [Básico](https://github.com/marcoshsq/Python_Reference_sheet#b%C3%A1sico)
+- [Operadores](https://github.com/marcoshsq/Python_Reference_sheet#operadores)
+- [Data Types](https://github.com/marcoshsq/Python_Reference_sheet#tipos-de-dados---data-types-estruturas-simples-e-compostas)
+- [Control Flow](https://github.com/marcoshsq/Python_Reference_sheet#control-flow---estruturas-de-controle-de-fluxo)
+- []()
+- []()
+- []()
+- []()
 - []()
 
 ---
@@ -64,5 +71,10 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 - [Try, Except]() - Manipulando exceções.
 - [Raise]() - Criando exceções.
 
+---
 
-
+<div align="center">
+  
+[Ir para a guia](https://github.com/marcoshsq/Python_Reference_sheet#guia)
+  
+</div>
