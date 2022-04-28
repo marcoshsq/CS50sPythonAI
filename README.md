@@ -82,6 +82,6 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 <div align="right">
   
-[Ir para o Índice](https://github.com/marcoshsq/Python_Reference_sheet#guia)
+[Ir para o Índice](https://github.com/marcoshsq/Python_Reference_sheet#%C3%ADndice)
   
 </div>
