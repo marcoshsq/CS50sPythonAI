@@ -14,7 +14,7 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 - [Classes](https://github.com/marcoshsq/Python_Reference_sheet#classes-e-objetos)
 - [Files](https://github.com/marcoshsq/Python_Reference_sheet#arquivos---files)
 - [Módulos](https://github.com/marcoshsq/Python_Reference_sheet#m%C3%B3dulos-pacotes-e-bibliotecas)
-- [Links Úteis]()
+- [Links Úteis](https://github.com/marcoshsq/Python_Reference_sheet#links-%C3%BAteis)
 
 ---
 
@@ -69,13 +69,52 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 #### Tratamento de Erros e Exceções:
 
 - [Try, Except]() - Manipulando exceções.
+
 - [Raise]() - Criando exceções.
 
 ### Funções:
 
+- [Definindo Funções]() 
+
+- [Escopos de Variáveis Dentro de Funções]()
+
+- [Valores de argumento padrão]()
+
+- [Argumentos de palavra-chave]()
+
+- [Listas de argumentos arbitrários]()
+
+- [Descompactando Listas de Argumentos]()
+
+- [Expressões lambda]()
+
+- [Strings de Documentação]()
+
+- [Anotações de função]()
+
+- [Decoradores de função]()
+
 ### Classes e Objetos:
 
+- [Definição de classe]()
+
+- [Objetos de classe]()
+
+- [Objetos de instância]()
+
+- [Objetos de método]()
+
+- [Variáveis de classe e instância]()
+
+- [Herança]()
+
+- [Herança múltipla]()
+
 ### Arquivos - Files:
+
+[Leitura e escrita]()
+
+[Métodos de objetos de arquivo]()
 
 ### Módulos, Pacotes e Bibliotecas:
 
