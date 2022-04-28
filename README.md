@@ -35,7 +35,18 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 ### Tipos de dados - Data Types (Estruturas Simples e Compostas):
 
-- [Números]() - ``Int``, ``Float``, ``Bool``, ``Complex``.
+- [Números]() - ``Int``, ``Float``, ``Bool``, ``Complex`` e ``Type Casting``.
+
+- [Strings]() - Sem RegEx.
+
+- [Listas]()
+
+- [Tuplas]()
+
+- [Sets]()
+
+- [Dicionários]()
+
 
 
 
