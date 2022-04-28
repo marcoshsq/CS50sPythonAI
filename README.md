@@ -73,7 +73,7 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 ---
 
-<div align="center">
+<div align="right">
   
 [Ir para a guia](https://github.com/marcoshsq/Python_Reference_sheet#guia)
   
