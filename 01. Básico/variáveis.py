@@ -39,3 +39,28 @@ z = x + y
 num_01 = 1
 num_02 = 2
 soma_num = num_01 + num_02
+
+# Agora sobre como atribuir, usamos o sinal de "=".
+x = 10
+
+# É possível atribuir varios valores, e de tipos diferentes:
+
+x, y, z = 10, 20, 30
+
+a, b, c = 10, True, "Batata"
+
+# Se haver só uma variável à esquerda, o resultado é uma tupla:
+
+x = 10, 20, 30
+
+# Se o número à esqueda e o número à direita forem diferentes, ocorre um erro (ValueError):
+
+x, y = 10, 20, 30
+x, y, z = 10, 20
+
+# Porém se usarmos o * na frente do nome da variável, ela vira uma lista:
+
+x, *y = 10, 20, 30
+*x, y = 10, 20, 30
+
+
