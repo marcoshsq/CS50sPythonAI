@@ -23,7 +23,7 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 ### Básico:
 
 - [O que é Python]()
-- [Syntax Básica]()
+- [Syntax Básica]() - ``Identação``, ``Comentários``, ``Docstrings``, ``print()``, ``input()``. 
 - [Variáveis]()
 
 ### Operadores:
@@ -70,6 +70,14 @@ A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿�
 
 - [Try, Except]() - Manipulando exceções.
 - [Raise]() - Criando exceções.
+
+### Funções:
+
+### Classes e Objetos:
+
+### Arquivos - Files:
+
+### Módulos, Pacotes e Bibliotecas:
 
 ---
 
