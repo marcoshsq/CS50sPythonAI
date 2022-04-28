@@ -5,3 +5,20 @@ Essa é uma folha de referência pessoal, mas vou deixá-la pública, pois pode 
 A ideia é usar esse repositório como referência... ta no nome (づ｡◕‿‿◕｡)づ
 
 ## Guia:
+
+- [Básico]()
+- []()
+
+---
+
+## Conteúdo:
+
+### Básico:
+
+- [O que é Python]()
+- [Syntax Básica]()
+- [Variáveis]()
+
+
+
+
