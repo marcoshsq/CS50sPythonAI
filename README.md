@@ -1,15 +1,14 @@
-# Python Reference Sheet.
+# Python Reference Sheet. (づ｡◕‿‿◕｡)づ
 
-The idea is to use this repository as a reference sheet... after all, it's in the name, right?.. (づ｡◕‿‿◕｡)づ
+## Arquivos:
 
-## Table of contents:
-
+- []()
+- []()
+- []()
+- []()
 - []()
 
 ---
-
-## Contents:
-
 
 ### Links:
 
@@ -17,12 +16,6 @@ The idea is to use this repository as a reference sheet... after all, it's in th
 - [PEP 8 — the Style Guide for Python Code](https://pep8.org/#pep-8-%E2%80%94-the-style-guide-for-python-code)
 - [Python Speedsheet](https://speedsheet.io/s/python)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-- [Visualize the Code](https://pythontutor.com/visualize.html#mode=edit)
+- [Visualizador de código](https://pythontutor.com/visualize.html#mode=edit)
 
 ---
-
-<div align="right">
-  
-[Table of contents](https://github.com/marcoshsq/Python#table-of-contents)
-  
-</div>
