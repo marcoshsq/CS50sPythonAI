@@ -23,6 +23,6 @@ The idea is to use this repository as a reference sheet... after all, it's in th
 
 <div align="right">
   
-[Ir para o Índice](https://github.com/marcoshsq/Python_Reference_sheet#%C3%ADndice)
+[Table of contents](https://github.com/marcoshsq/Python#table-of-contents)
   
 </div>
