@@ -27,8 +27,6 @@ def letter_frequency(string_file):
 def remove_words():
     """Creates a list of words."""
 
-    from wordcloud import STOPWORDS
-
     stopwords_list = list()
     while True:
         word = input("Enter a word: \nTo stop enter 0")
