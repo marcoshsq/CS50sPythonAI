@@ -1,4 +1,4 @@
-# Python Reference Sheet. (づ｡◕‿‿◕｡)づ
+# Códigos de referência. (づ｡◕‿‿◕｡)づ
 
 ## Arquivos:
 
@@ -8,6 +8,7 @@
 - [Integrar com Chrome](https://github.com/marcoshsq/Python/blob/main/C%C3%B3digos/04.Integrar%20com%20Chrome.py)
 - [Coletar dados do Github](https://github.com/marcoshsq/Python/blob/main/C%C3%B3digos/05.Raspagem%20de%20perfil.py)
 - [Renomear arquivos em um diretório](https://github.com/marcoshsq/Python/blob/main/C%C3%B3digos/06.Nomeando%20Arquivos.py)
+- [Frequência de Palavras com um dicionário](https://github.com/marcoshsq/Lista_de_Codigos_Prontos/blob/main/C%C3%B3digos/07.Frequ%C3%AAncia%20de%20palavras.py)
 
 ---
 
