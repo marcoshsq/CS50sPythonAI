@@ -14,6 +14,24 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    
+# Outra forma:
+
+import os
+
+
+def main():
+    i = 1
+    path = os.chdir("C:/Users\Windows 7/Documents/python_projects/Python_for_Everybody/Course 02 - Python Data Structures/Extra Studies/Tuples")
+    for file in os.listdir(path):
+        new_file = f"ex0{i}.py"
+        os.rename(file, new_file)
+        i += 1
+
+
+if __name__ == "__main__":
+    main()
 
 
 # Para listar os arquivos em um diretório
