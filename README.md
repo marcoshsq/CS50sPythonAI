@@ -14,13 +14,16 @@ Repository with my studies and projects developed during the CS50’s Introducti
 
 ### Repository Folders:
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Week 01]() - Search;
+- [Week 02]() - Knowledge;
+- [Week 03]() - Uncertainty;
+- [Week 04]() - Optimization;
+- [Week 05]() - Learning;
+- [Week 06]() - Neural Networks;
+- [Week 07]() - Language;
+- [Project 01]() - Face Detector App;
+- [Project 02]() - Self Driving Car App;
+- [Project 03]() - Smile Detector App;
+- [Project 04]() - TensorFlow Image Classifier App.
 
 ---
